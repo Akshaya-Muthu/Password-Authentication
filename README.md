@@ -88,6 +88,8 @@ Use the JWT token in Authorization header as Bearer <token>
 
 Access protected endpoints
 
+API DOCUMENTATION
+https://documenter.getpostman.com/view/44994873/2sB2qcDMK2
 
 
 
